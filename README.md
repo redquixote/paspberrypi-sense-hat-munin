@@ -4,7 +4,7 @@ Candid Munin scripts for Raspberry Pi and Sense Hat
 ## To install:
 - Install dependencies
 ```
-pip -r requirements.txt 
+pip install -r requirements.txt
 ```
 
 - create sym links for munin
